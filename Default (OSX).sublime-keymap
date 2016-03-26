@@ -1,0 +1,3 @@
+[
+    { "keys": ["ctrl+alt+d"], "command": "wordpress_salts_dot_env" },
+]

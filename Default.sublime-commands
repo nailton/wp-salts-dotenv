@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "WordPress Generate Salt DotEnv",
+        "command": "wordpress_salts_dot_env"
+    },
+]
